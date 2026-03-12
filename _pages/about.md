@@ -14,12 +14,12 @@ I am fascinated by the power of Text Mining to capture meaningful social pattern
 
 🎓Education
 ------
-2024.03 - Present, Sogang University, B.S. in Sociology & Big Data Science (in progress)
+* 2024.03 - Present, Sogang University, B.S. in Sociology & Big Data Science (in progress)
 
 💼Experience
 ------
-*2022.03 - 2026.03, Freelancer, Hiconsy
-*2024.08 - 2024.09, Research Intern, Sogang University
+* 2022.03 - 2026.03, Freelancer, Hiconsy
+* 2024.08 - 2024.09, Research Intern, Sogang University
 
 📝Publication
 ------
