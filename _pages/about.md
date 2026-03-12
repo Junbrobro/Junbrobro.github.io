@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hi, I'm Jun Hyeong Park, a student at Sogang University double majoring in Sociology and Big Data Analytics. I strive to interpret the world through the lens of data science.
+Hi, I'm **Jun Hyeong Park**, a student at Sogang University double majoring in Sociology and Big Data Analytics. I strive to interpret the world through the lens of data science.
 
 I am fascinated by the power of Text Mining to capture meaningful social patterns and contexts hidden within fragmented linguistic data. My goal is to reconstruct complex social phenomena—which cannot be reduced to mere numbers—using a blend of precise algorithms and sociological imagination. By combining technical analytical skills with a deep perspective on society, I hope to grow into a data scientist who can most accurately give voice to the diverse narratives within our community.
 
@@ -18,8 +18,8 @@ I am fascinated by the power of Text Mining to capture meaningful social pattern
 
 💼Experience
 ------
-2022.03 - 2026.03, Freelancer, Hiconsy
-2024.08 - 2024.09, Research Intern, Sogang University
+*2022.03 - 2026.03, Freelancer, Hiconsy
+*2024.08 - 2024.09, Research Intern, Sogang University
 
 📝Publication
 ------
