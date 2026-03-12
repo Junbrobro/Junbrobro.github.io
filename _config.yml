@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pro.jpg" 
+  avatar           : "pro.png" 
   name             : "Jun Hyeong Park"
   pronouns         : # example: "she/her"  
   bio              : "B.S. Student at Sogang University"
