@@ -18,8 +18,8 @@ I am fascinated by the power of Text Mining to capture meaningful social pattern
 
 💼Experience
 ------
-* 2022.03 - 2026.03, Freelancer, Hiconsy
-* 2024.08 - 2024.09, Research Intern, Sogang University
+* 2022.03 - 2026.03, Freelancer, Hiconsy : Social and Cultural Studies Exam Content Creator
+* 2024.08 - 2024.09, Research Intern, Sogang University : An Ethical Enhancement Study of Data Characteristics and Generative AI Models for Social and Ethical Learning
 
 📝Publication
 ------
